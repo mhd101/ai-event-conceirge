@@ -3,7 +3,7 @@
 A high-performance, professional AI assistant built for planning corporate offsites and team retreats. Get structured venue proposals, cost breakdowns, and expert justifications from a single natural language description.
 
 ## 🔗 Demo
-[Update with your live demo link here later]
+[Live Demo](https://ai-event-conceirge.netlify.app/)
 
 ## ✨ Key Features
 - **Natural Language Planning:** Simply type your requirements (e.g., "15 people, 3 days in Bali, $10k budget") and get a full proposal.
